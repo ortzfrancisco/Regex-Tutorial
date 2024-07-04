@@ -107,7 +107,7 @@ Backreferences match the same text as previously matched by a capturing group.
 - `(?<!ABC)`: Negative lookbehind.
 
 ## Author
-Christopher Even: UT coding student.
+Francisco Ortiz.
 
 ## Sources and References
 - [Regexr](https://regexr.com/)
